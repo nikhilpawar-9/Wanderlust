@@ -40,4 +40,4 @@ A full-stack accommodation booking web application inspired by Airbnb, built usi
 Clone the repository:
 
 ```bash
-git clone https://github.com/nikhilpawar-9/Airbnb.git
+git clone https://github.com/nikhilpawar-9/Wanderlust.git
